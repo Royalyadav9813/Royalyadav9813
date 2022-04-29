@@ -1,3 +1,4 @@
+![MasterHead](https://tse4.mm.bing.net/th?id=OIP.yw0TnheAGN-LPneDaTlaxwHaD8&pid=Api&P=0&w=288&h=153)
 <h3 align="center">A passionate frontend developer and having a good grasp over learning new technologies and having a dream to be a good problem solver</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royalyadav9813" alt="royalyadav9813" /></a> </p>
